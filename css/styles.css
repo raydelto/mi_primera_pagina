@@ -1,0 +1,17 @@
+.encabezado{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    font-family: cursive;
+    color: brown;
+    font-size: 42px;
+    margin-bottom: 20px;
+}
+
+.cuerpo{
+    background-color: rgb(214, 202, 186);
+    font-size: 19px;
+    border-radius: 10px;
+    padding: 22px;
+    color: cornflowerblue;
+    font-family: monospace;
+}
